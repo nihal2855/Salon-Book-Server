@@ -10,7 +10,7 @@
 - **Live Backend API:** https://salonbo.onrender.com
 
 ---
-
+ 
 ## Important Features
 
 - **JWT Authentication & Role-Based Authorization:** Verifies Bearer JWT tokens on protected endpoints, checks live user and `isBlocked` status directly against MongoDB, and restricts administrative routes via `verifyAdmin` middleware.
