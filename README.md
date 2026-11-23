@@ -8,7 +8,7 @@
 
 - **Live Website:** https://salonbo.vercel.app
 - **Live Backend API:** https://salonbo.onrender.com
-
+ 
 --- 
  
 ## Important Features 
