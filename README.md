@@ -3,7 +3,7 @@
 **SalonBook Server** is a RESTful backend API built with Node.js, Express.js, and MongoDB for the SalonBook appointment booking platform. It manages salon service catalogs, conflict-free appointment scheduling, role-based access control via JWT verification, customer account moderation, and signature-verified Stripe Checkout and Webhook payment processing.
 
 ---
-
+ 
 ## Live Links & Repositories
 
 - **Live Website:** https://salonbo.vercel.app
