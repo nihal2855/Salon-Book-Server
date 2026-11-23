@@ -11,7 +11,7 @@
 
 --- 
  
-## Important Features
+## Important Features 
 
 - **JWT Authentication & Role-Based Authorization:** Verifies Bearer JWT tokens on protected endpoints, checks live user and `isBlocked` status directly against MongoDB, and restricts administrative routes via `verifyAdmin` middleware.
 - **Salon Service Management:** Supports public active-service querying (case-insensitive name search, category filtering, price sorting, and result limiting) alongside Admin-only CRUD operations and status toggling (`active` / `inactive`).
