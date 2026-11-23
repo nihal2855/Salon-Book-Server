@@ -59,12 +59,3 @@
 | `POST` | `/api/payments/webhook` | Stripe | Signature-verified Stripe webhook listener |
 | `GET` | `/api/payments/my` | Customer | Get customer's payment history |
 | `GET` | `/api/payments/admin/all` | Admin | View all verified payment transactions |
-
----
-
-## Installation Instructions
-
-1. **Clone the server repository:**
-   ```bash
-   git clone [https://github.com/your-username/salonbook-server.git](https://github.com/your-username/salonbook-server.git)
-   cd salonbook-server
