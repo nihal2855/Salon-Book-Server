@@ -6,7 +6,7 @@
  
 ## Live Links & Repositories
 
-- **Live Website:** https://salonbo.vercel.app
+- **Live Website:** https://salonbo.vercel.app 
 - **Live Backend API:** https://salonbo.onrender.com
  
 ---  
